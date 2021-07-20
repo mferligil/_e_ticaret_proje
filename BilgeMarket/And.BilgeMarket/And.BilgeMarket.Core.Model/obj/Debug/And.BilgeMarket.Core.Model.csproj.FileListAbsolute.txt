@@ -1,0 +1,26 @@
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\And.BilgeMarket.Core.Model.dll.config
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\And.BilgeMarket.Core.Model.dll
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\And.BilgeMarket.Core.Model.pdb
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.csproj.CopyComplete
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.dll
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.pdb
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.Migrations.kur.resources
+C:\Users\mertcan\Desktop\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.csproj.GenerateResource.cache
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\And.BilgeMarket.Core.Model.dll.config
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\And.BilgeMarket.Core.Model.dll
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\And.BilgeMarket.Core.Model.pdb
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.csprojAssemblyReference.cache
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.Migrations.kur.resources
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.csproj.GenerateResource.cache
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.csproj.CopyComplete
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.dll
+C:\Users\mertcan\Desktop\Bilge adam\BilgeMarket\And.BilgeMarket\And.BilgeMarket.Core.Model\obj\Debug\And.BilgeMarket.Core.Model.pdb
